@@ -3,7 +3,7 @@ package subparentdemo
 import (
 	"fmt"
 
-	"github.com/dt/subparentdemo/subdemo"
+	"subparentdemo/subdemo"
 )
 
 func PrintSubmoduleVersion() {
